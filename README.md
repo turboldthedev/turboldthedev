@@ -1,3 +1,8 @@
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
+
+
 <h1 >Hi 👋, I'm Turbold</h1> <h3 >A passionate fullstack developer from Mongolia</h3> <p> As a child, I always enjoyed immersing myself in various forms of technology, particularly video games. One day, while browsing YouTube, I came across a video called "How to Create Minecraft in Java (Programming language)." As a child who enjoyed Minecraft because of its unique feature of unlimited possibilities for construction and exploring, it drew me in and fueled my desire to learn how to code. At that point, I discovered my passion: becoming a software developer at the largest technology business in the United States. </p> <p> To pursue my passion, I enrolled at Pinecone Academy, a programming academy, in addition to my high school education. This academy substantially expanded my knowledge of software engineering while also teaching me about responsibility, leadership, self-organization, independence, and teamwork. Most importantly, it helped me realize who I am. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turboldthedev&label=Profile%20views&color=0e75b6&style=flat" alt="turboldthedev" /> </p>

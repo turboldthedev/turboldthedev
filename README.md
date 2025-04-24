@@ -11,21 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [EventX](https://www.eventx.mn/)
+- 🔭 I’m currently working on [Materialbank JP](https://www.materialbank.eu/)
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
 - 👯 I’m looking to collaborate on [Suray.io](https://www.suray.io/)
-
-- 🤝 I’m looking for help with [EventX](https://www.eventx.mn/)
 
 - 👨‍💻 All of my projects are available at [https://turbold-portfolio-49.vercel.app/](https://turbold-portfolio-49.vercel.app/)
 
 - 💬 Ask me about **react, next.js, javascript, typescript**
 
 - 📫 How to reach me **turbolddev@gmail.com**
-
-- ⚡ Fun fact **I think I'm good at coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
